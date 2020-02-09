@@ -1,6 +1,6 @@
 
 public class FirstClass{
 
-    //hello
+    //hi
 
 }
